@@ -6,7 +6,7 @@ R1(config-router)#network 172.30.2.0
 R1(config-router)#network 209.165.200.228
 
 
-
+Hola said
 
 
 R2(config)#router rip
